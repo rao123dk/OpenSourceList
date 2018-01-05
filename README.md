@@ -22,7 +22,9 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6 / ES7 / ES8) heavily inspired by Angular :rocket: :zap:
 * [home-automation](https://github.com/deepsyx/home-automation) -Raspberry Pi 3 based home automation with NodeJS and React Native.
 * [node-notifier](https://github.com/mikaelbr/node-notifier) -A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
-* [node-notifier](https://github.com/mikaelbr/node-notifier) -A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
+* [pdf-bot](https://github.com/esbenp/pdf-bot) - :robot: Easily create a microservice for generating PDFs using headless Chrome.
+* [node-packer](https://github.com/pmq20/node-packer) -Packing your Node.js application into a single executable.
+* [node-packer](https://github.com/pmq20/node-packer) -Packing your Node.js application into a single executable.
 
 
 
