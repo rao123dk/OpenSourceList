@@ -37,6 +37,7 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 
 ## R&D
 * [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+* [github-user](https://github.com/siddharthkp/github-user) - Get bio + popular repos for a user 
 
 ## CLI
 * [terminal-kit](https://github.com/cronvel/terminal-kit) - A full-blown terminal lib featuring: 256 colors, styles, keys & mouse handling, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more...
