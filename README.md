@@ -24,7 +24,9 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [node-notifier](https://github.com/mikaelbr/node-notifier) -A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 * [pdf-bot](https://github.com/esbenp/pdf-bot) - :robot: Easily create a microservice for generating PDFs using headless Chrome.
 * [node-packer](https://github.com/pmq20/node-packer) -Packing your Node.js application into a single executable.
-* [node-packer](https://github.com/pmq20/node-packer) -Packing your Node.js application into a single executable.
+* [cheerio](https://github.com/cheeriojs/cheerio) -Cheerio parses markup and provides an API for traversing/manipulating the resulting data structure and also used for scraper.
+* [dawson-cli](https://github.com/dawson-org/dawson-cli)- A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda) 
+* [spikenail](https://github.com/spikenail/spikenail)- A GraphQL Framework for Node.js.
 
 
 
@@ -32,4 +34,12 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 ## Other Resource
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Algorithms, front end and behavioral content for rocking your coding interview. 
 * [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh
+
+## R&D
+* [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+
+## CLI
+* [terminal-kit](https://github.com/cronvel/terminal-kit) - A full-blown terminal lib featuring: 256 colors, styles, keys & mouse handling, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more...
+* [node-draftlog](https://github.com/ivanseidel/node-draftlog) -Create updatable log lines into the terminal, and give life to your logs! Because Logging can be pretty and fun( :love: )
+
 
