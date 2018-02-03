@@ -2,6 +2,7 @@
 A collection of awesome open Source project [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 ## Projects
+  ##JavaScript Stack##
 
 * [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 * [Napa.js](https://github.com/Microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime.
@@ -27,12 +28,16 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [cheerio](https://github.com/cheeriojs/cheerio) -Cheerio parses markup and provides an API for traversing/manipulating the resulting data structure and also used for scraper.
 * [dawson-cli](https://github.com/dawson-org/dawson-cli)- A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda) 
 * [spikenail](https://github.com/spikenail/spikenail)- A GraphQL Framework for Node.js.
+* [expressCart](https://github.com/mrvautin/expressCart)- A fully functioning Node.js shopping cart with Stripe and PayPal payments. 
 
 
 
 
 ## Other Resource
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Algorithms, front end and behavioral content for rocking your coding interview. 
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) -  zap Delightful Node.js packages and resources https://node.cool 
+* [123-Essential-JavaScript-Interview-Question](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question) -JavaScript interview Questions 
+* [js--interview-questions with Good concept](https://github.com/vvscode/js--interview-questions) - Notes from technical (javascript) interviews. Tasks and quiz for different topics to discuss on interview / check self skills in javascript 
 * [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process https://airtable.com/shr5TdnpVYVTpeRrN/tbluCbToxQ2knSLhh
 
 ## R&D
