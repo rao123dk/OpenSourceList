@@ -2,7 +2,7 @@
 A collection of awesome open Source project [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 ## Projects
-  ##JavaScript Stack##
+  ### JavaScript Stack
 
 * [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 * [Napa.js](https://github.com/Microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime.
@@ -29,8 +29,10 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [dawson-cli](https://github.com/dawson-org/dawson-cli)- A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda) 
 * [spikenail](https://github.com/spikenail/spikenail)- A GraphQL Framework for Node.js.
 * [expressCart](https://github.com/mrvautin/expressCart)- A fully functioning Node.js shopping cart with Stripe and PayPal payments. 
+* [winston](https://github.com/winstonjs/winston)- A logger for just about everything.
 
-
+ ### Python 
+ ### PHP
 
 
 ## Other Resource
