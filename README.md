@@ -33,6 +33,7 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 
  ### Python 
  * [coala](https://coala.io/#/home)- Language independent and easily extendable code analysis application.
+ * [saws](https://github.com/donnemartin/saws)- A supercharged AWS command line interface (CLI).
  * [pynacl](https://github.com/pyca/pynacl)- Python binding to the Networking and Cryptography (NaCl) library.
  * [Awesome Python](https://github.com/vinta/awesome-python)- A curated list of awesome Python frameworks, libraries,        software and resources.
 
