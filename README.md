@@ -33,6 +33,7 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 
  ### Python 
  ### PHP
+ * [Faker](https://github.com/fzaninotto/Faker)- Faker is a PHP library that generates fake data for you.
 
 
 ## Other Resource
