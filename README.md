@@ -32,6 +32,10 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [winston](https://github.com/winstonjs/winston)- A logger for just about everything.
 
  ### Python 
+ * [coala](https://coala.io/#/home)- Language independent and easily extendable code analysis application.
+ * [pynacl](https://github.com/pyca/pynacl)- Python binding to the Networking and Cryptography (NaCl) library.
+ * [Awesome Python](https://github.com/vinta/awesome-python)- A curated list of awesome Python frameworks, libraries,        software and resources.
+
  ### PHP
  * [Faker](https://github.com/fzaninotto/Faker)- Faker is a PHP library that generates fake data for you.
 
