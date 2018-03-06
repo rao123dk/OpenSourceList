@@ -30,6 +30,7 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [spikenail](https://github.com/spikenail/spikenail)- A GraphQL Framework for Node.js.
 * [expressCart](https://github.com/mrvautin/expressCart)- A fully functioning Node.js shopping cart with Stripe and PayPal payments. 
 * [winston](https://github.com/winstonjs/winston)- A logger for just about everything.
+* [pandora.js](https://github.com/midwayjs/pandora)- A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript.
 
  ### Python 
  * [coala](https://coala.io/#/home)- Language independent and easily extendable code analysis application.
@@ -56,4 +57,9 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [terminal-kit](https://github.com/cronvel/terminal-kit) - A full-blown terminal lib featuring: 256 colors, styles, keys & mouse handling, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more...
 * [node-draftlog](https://github.com/ivanseidel/node-draftlog) -Create updatable log lines into the terminal, and give life to your logs! Because Logging can be pretty and fun( :love: )
 
+## VS Code extensions
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Cobalt2 Theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
