@@ -62,5 +62,8 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [Cobalt2 Theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+* [php-intellisense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
+* [polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 ## Target -> :thumbsup: :computer: :hourglass_flowing_sand:
