@@ -31,6 +31,7 @@ A collection of awesome open Source project [JavaScript](https://developer.mozil
 * [expressCart](https://github.com/mrvautin/expressCart)- A fully functioning Node.js shopping cart with Stripe and PayPal payments. 
 * [winston](https://github.com/winstonjs/winston)- A logger for just about everything.
 * [pandora.js](https://github.com/midwayjs/pandora)- A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript.
+* [node-clinic](https://github.com/nearform/node-clinic)- Clinic diagnoses your Node.js performance issues.
 
  ### Python 
  * [coala](https://coala.io/#/home)- Language independent and easily extendable code analysis application.
